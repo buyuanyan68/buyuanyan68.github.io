@@ -58,3 +58,6 @@
 .b6{
     transform: rotateY(300deg) translateZ(280px);
 }
+body{
+	background-image: url(../img/7.jpeg);
+}
