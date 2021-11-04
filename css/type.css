@@ -12,6 +12,9 @@ header{
 }
 
 .last{
+
+	zoom : 1px;
+
 	float: left;
 	width: 100%;
 	color: white;
